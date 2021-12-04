@@ -1,0 +1,162 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": true,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Hacker",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100073137742165",
+        "100072345413249"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36"
+    },
+    "version": "1.2.14",
+    "checktt": {
+        "maxColumn": 10
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200
+    },
+    "help": {
+        "autoUnsend": false,
+        "delayUnsend": 60
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "rank": {
+        "APIKEY": "571752207151901|AC-zG86sv6U6kpnT0_snIHBOHJc"
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 5
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyDH-HVpxrvn5tldQSqwYZdbLoIuDzM9jFI",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyB6pTkV2PM7yLVayhnjDSIM0cE_MbEtuvo"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "ghep": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "info": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "sim": {
+        "APIKEY": "Meew_r7YeB2FsLXplwevLRE518HSt9ABNyN"
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": true,
+        "delThread": ""
+    },
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "log": {
+        "enable": true
+    },
+    "shortlink": {
+        "bitlyAPI": "Meew_r7YeB2FsLXplwevLRE518HSt9ABNyN"
+    },
+    "covid": {
+        "APIKEY": "Meew_r7YeB2FsLXplwevLRE518HSt9ABNyN"
+    },
+    "hitbutt": {
+        "APIKEY": "Meew_r7YeB2FsLXplwevLRE518HSt9ABNyN"
+    },
+    "img": {
+        "APIKEY": "Meew_r7YeB2FsLXplwevLRE518HSt9ABNyN"
+    },
+    "info2": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "linkword": {
+        "APIKEY": "Meew_r7YeB2FsLXplwevLRE518HSt9ABNyN"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 30,
+        "unsendMessageAfter": 5
+    },
+    "slap": {
+        "APIKEY": "Meew_r7YeB2FsLXplwevLRE518HSt9ABNyN"
+    },
+    "sortword": {
+        "APIKEY": "Meew_r7YeB2FsLXplwevLRE518HSt9ABNyN"
+    },
+    "teach": {
+        "APIKEY": "Meew_r7YeB2FsLXplwevLRE518HSt9ABNyN"
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "tikvideo": {
+        "APIKEY": "a012e05802msh4ce48bff26d5c0ap151d85jsn4edde7f89de0"
+    },
+    "working": {
+        "cooldownTime": 1200000
+    },
+    "ins": {
+        "APIKEY": ""
+    },
+    "nameJP": {
+        "APIKEY": "mi451266190"
+    },
+    "sim2": {
+        "APIKEY": ""
+    },
+    "ytbmp4": {
+        "YOUTUBE_API": "AIzaSyAV-_gwPIG08N9ELnovGVr3jxY7NmlMfDM"
+    },
+    "simvoice": {
+        "APIKEY": "Meew_r7YeB2FsLXplwevLRE518HSt9ABNyN"
+    },
+    "tuongtac": {
+        "maxColumn": 400
+    },
+    "lamviec": {
+        "cooldownTime": 1200000
+    }
+}
