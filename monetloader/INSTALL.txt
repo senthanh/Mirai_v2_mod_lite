@@ -1,0 +1,42 @@
+LOUD MIC - APO PROCESSOR INSTALLATION GUIDE
+===========================================
+
+【 INSTALL STEPS 】
+
+1. Copy LoudMic.lua to:
+   /storage/emulated/0/Android/media/com.sampmobilerp.game/monetloader/
+
+2. Add this to your main monetloader script:
+   require("LoudMic")
+   main()
+
+3. Start your monetloader
+
+4. Use commands:
+   /lmic       - Toggle GUI
+   /lsoft      - 80% volume
+   /lnormal    - 120% volume
+   /lloud      - 180% volume
+   /lultra     - 250% volume (MAXIMUM)
+
+【 FEATURES 】
+
+✓ 100% Full Volume Processing
+✓ APO-style Audio Amplification
+✓ Normalization + Compression + Soft Clipping
+✓ 4 Preset Modes
+✓ Real-time Volume Control
+✓ No Digital Distortion
+
+【 REQUIREMENTS 】
+
+- SAMP Mobile (Monetloader)
+- mimgui library
+- encoding library
+- samp.events library
+- copas library
+
+【 SUPPORT 】
+
+For issues or questions, please contact:
+HuyTapChoi on GitHub
